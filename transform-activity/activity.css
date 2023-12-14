@@ -1,3 +1,4 @@
 main {
-transform: translate(30px, 40px); rotate (20deg);
+transform: skew(10deg, -40deg);
+width:2em, height:2em;
 }
